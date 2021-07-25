@@ -23,7 +23,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  * <h1>PostgresDb</h1>
- * Esta clase te permitirá establecer una conexion a una base de datos en
+ * Esta clase te permitirá el pepe establecer una conexion a una base de datos en
  * postgresql, ademas de poder ejecutar SQLs SELECT,INSERT,UPDATE y DELETE.
  * También puede generar un modelo de tabla, precargada con los datos de un
  * SELECT que especifiques. Podrás terminar procesos, restaurar y respaldar la
